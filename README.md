@@ -1,7 +1,7 @@
 ### Olá, eu sou o João Paulo Bonomo! 👋
 
 - 🔭 I’m currently working on Front-end;
-- 🌱 I’m currently learning Python, OOP and MySQL;
+- 🌱 I’m currently learning Python, OOP and React;
 - 📫 You can contact me sending an e-mail: jpabonomo@gmail.com
 
 <div align="center">
