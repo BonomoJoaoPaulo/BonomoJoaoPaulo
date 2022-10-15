@@ -1,7 +1,7 @@
 ### Olá, eu sou o João Paulo Bonomo! 👋
 
-- 🔭 Full stack web developer;
-- 🌱 I’m currently studying Data Structures, Concurrent Programming at University and Data Science by myself;
+- 🔭 Data analyst researcher;
+- 🌱 I’m currently studying Data Science;
 - 📫 You can contact me sending an e-mail: jpabonomo@gmail.com
 
 <div align="center">
