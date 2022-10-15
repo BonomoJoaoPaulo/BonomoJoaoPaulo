@@ -1,6 +1,6 @@
 ### Olá, eu sou o João Paulo Bonomo! 👋
 
-- 🔭 Data analyst researcher;
+- 🔭 Researcher at LISHA - INE - CTC - UFSC;
 - 🌱 I’m currently studying Data Science;
 - 📫 You can contact me sending an e-mail: jpabonomo@gmail.com
 
